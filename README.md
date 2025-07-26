@@ -1,2 +1,3 @@
-# LP-CKA
-Linux PathShala CKA
+CKA
+k8s-CKA-study-notes
+
